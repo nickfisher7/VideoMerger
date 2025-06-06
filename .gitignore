@@ -1,0 +1,7 @@
+# Output directories
+converted/
+highlights_new_gen/
+tmp_segments/
+
+# SD card input example
+sd_cards/
